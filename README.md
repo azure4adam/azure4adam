@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on super cool projects
+- 🔭 I’m currently working on super cool projects.
 - 🌱 I’m currently learning C# and Powershell.
 
 
