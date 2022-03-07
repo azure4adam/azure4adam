@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on super cool projects
+- 🌱 I’m currently learning C# and Powershell.
+
+
 <!--
 **azure4adam/azure4adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
